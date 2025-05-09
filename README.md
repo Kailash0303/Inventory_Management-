@@ -4,7 +4,7 @@ A backend application built with **Spring Boot**, **Hibernate**, and **MySQL** t
 
 ---
 
-##  Features
+## Features
 
 - Add, update, view, and delete inventory items
 - Dynamic filtering/search with **Hibernate Criteria API**
@@ -14,7 +14,7 @@ A backend application built with **Spring Boot**, **Hibernate**, and **MySQL** t
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Language:** Java (JDK 8+)
 - **Frameworks:** Spring Boot, Hibernate ORM
