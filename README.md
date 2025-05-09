@@ -1,16 +1,16 @@
-# 📦 Inventory Management System
+# Inventory Management System
 
 A backend application built with **Spring Boot**, **Hibernate**, and **MySQL** to manage inventory operations such as adding, updating, deleting, and searching for products.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🧾 Add, update, view, and delete inventory items
-- 🔍 Dynamic filtering/search with **Hibernate Criteria API**
-- 🧩 Clean layered architecture (Controller → Service → DAO)
-- ✅ Input validation and exception handling
-- 🔗 RESTful API design for easy integration
+- Add, update, view, and delete inventory items
+- Dynamic filtering/search with **Hibernate Criteria API**
+- Clean layered architecture (Controller → Service → DAO)
+- Input validation and exception handling
+- RESTful API design for easy integration
 
 ---
 
